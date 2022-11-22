@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'crispy_forms',
     'adminsortable2',
     'demo',
+    'juntagrico_assignment_request',
 ]
 
 ROOT_URLCONF = 'demo.urls'
